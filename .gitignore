@@ -14,3 +14,19 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Build artifacts
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+
+# Terraform (if not already)
+.terraform/
+*.tfstate
+*.tfstate.backup
