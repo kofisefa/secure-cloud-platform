@@ -241,6 +241,4 @@ Built a fully automated, serverless incident detection and response pipeline tha
 - Dead-letter queues (SQS) for resilience
 
 ## 🧠 Author
-Rexford SA
-
-Built as a portfolio project to demonstrate senior-level Cloud / DevOps engineering capabilities.
+Rexford SA (Senior Cloud / DevOps Engineer)
